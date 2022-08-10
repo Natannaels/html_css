@@ -1,0 +1,18 @@
+/* Estilo padrao */
+html {
+    height: 100px;
+}
+
+body {
+    background-color: azure;
+    font-family: sans-serif;
+    color: darkslategrey;
+    margin: 0;
+    padding: 20px 25px 15px ;
+    text-align: center;
+
+}
+
+
+
+
